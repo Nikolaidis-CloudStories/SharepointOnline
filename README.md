@@ -6,3 +6,4 @@ Install SharePoint Online Management Shell: If you haven't already done so, down
 Open SharePoint Online Management Shell: Launch the SharePoint Online Management Shell application on your computer.
 
 Connect to SharePoint Online: In the SharePoint Online Management Shell, run the PS Script
+for more info you may visit my blog https://cloudstories.eu
